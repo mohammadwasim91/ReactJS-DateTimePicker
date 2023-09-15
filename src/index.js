@@ -8,7 +8,7 @@ import { CalendarPanel } from "./TimePanel";
 import DomHandler from "./utils/DomHandler";
 import classNames from "classnames";
 import Tooltip from "./Tooltip";
-import "primereact/resources/themes/nova-light/theme.css";
+// import "primereact/resources/themes/nova-light/theme.css";
 import "primereact/resources/primereact.min.css";
 import "primeicons/primeicons.css";
 import moment from "moment";
